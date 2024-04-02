@@ -1,0 +1,25 @@
+{
+  "short_name": "Crypto",
+  "name": "Crypto",
+  "icons": [
+    {
+      "src": "https://th.bing.com/th/id/OIP.XuHPIAYLEk54MHf5Ff7vygHaHh?rs=1&pid=ImgDetMain",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://th.bing.com/th/id/OIP.XuHPIAYLEk54MHf5Ff7vygHaHh?rs=1&pid=ImgDetMain",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://th.bing.com/th/id/OIP.XuHPIAYLEk54MHf5Ff7vygHaHh?rs=1&pid=ImgDetMain",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
